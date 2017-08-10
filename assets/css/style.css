@@ -1,0 +1,77 @@
+body {
+	background-image: url("../images/exp80.jpg");
+
+}
+/*Backgrounds for all html divs */
+#header{
+	background-image: url("../images/pink-dust.png");
+}
+
+#instructions{
+	background-image: url("../images/pink-dust.png");
+
+}
+
+#targetScore{
+	background-image: url("../images/pink-dust.png");
+	height: 80px;
+}
+
+#scoreboard{
+	background-image: url("../images/pink-dust.png");
+	height: 80px;
+}
+
+#userScore{
+	background-image: url("../images/pink-dust.png");	
+	height: 50px;
+}
+
+#currentScore{
+	background-image: url("../images/pink-dust.png");
+	height: 80px;
+}
+
+/*text sizes, color and font*/
+#targetScore{
+	font-size: 33px;
+	text-align: center;
+	color: #FDFEE0;
+	font-family: 'Amatic SC', cursive;
+}
+
+#userScore{
+	font-size: 32px;
+	color: #FDFEE0;
+	font-family: 'Amatic SC', cursive;
+	text-align: center;
+}
+
+#currentScore{
+	font-size: 42px;
+	text-align: center;
+	color: #FDFEE0;
+	font-family: 'Amatic SC', cursive;
+}
+
+#instructions{
+	font-size: 24px;
+	color: #FDFEE0;
+	font-family: 'Amatic SC', cursive;
+}
+
+#scoreboard{
+	color: #FDFEE0;
+	font-family: 'Amatic SC', cursive;
+}
+
+#header{
+	color: #FDFEE0;
+	font-family: 'Amatic SC', cursive;
+}
+
+/*Image attributes*/
+img{
+	height: 90px;
+	width: 90px;
+}
